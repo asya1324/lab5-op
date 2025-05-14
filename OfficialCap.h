@@ -1,7 +1,7 @@
 #pragma once
-#include "UkrainianCity.h"
+#include "UnofficialCap.h"
 
-class OfficialCap : virtual public UkrainianCity
+class OfficialCap : virtual public UnofficialCap
 {
     public:
 
